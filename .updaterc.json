@@ -1,0 +1,30 @@
+{
+  "ownerPatterns": {
+    "node-base": "^base-",
+    "assemble": "^assemble-",
+    "boilerplate": "^boilerplate-",
+    "enquirer": "^enquirer-",
+    "generate": "^generate-",
+    "helpers": "^(helper|handlebars-helper)-",
+    "regexhq": "^-regex",
+    "sellside": "^sellside-",
+    "node-toolkit": "^toolkit-",
+    "upstage": "^upstage-",
+    "update": "^updater-",
+    "verbose": "^verb-"
+  },
+  "addFiles": [
+    ".assemblerc.json",
+    ".generaterc.json",
+    ".updaterc.json",
+    ".verbrc.json",
+    ".assemblerc.yml",
+    ".generaterc.yml",
+    ".updaterc.yml",
+    ".verbrc.yml",
+    "assemblefile.js",
+    "generator.js",
+    "updatefile.js",
+    "verbfile.js"
+  ]
+}
