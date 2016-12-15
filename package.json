@@ -1,7 +1,7 @@
 {
   "name": "update-config-toolkit",
   "description": "Sharable custom [update] config to be used with toolkit projects.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/node-toolkit/update-config-toolkit",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "node-toolkit/update-config-toolkit",
